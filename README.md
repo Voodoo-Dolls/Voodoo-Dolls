@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voodoo-dolls&label=Profile%20views&color=0e75b6&style=flat" alt="voodoo-dolls" /> </p>
 
-- 🌱 I’m currently learning **NextJS**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=voodoo-dolls" alt="voodoo-dolls" /></a> </p>
+
+- 🌱 I’m currently learning **NextJS, Wordpress, PHP, Web Design**
 
 - 📫 How to reach me **michaeldam.dev@gmail.com**
 
